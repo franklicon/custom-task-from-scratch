@@ -1,4 +1,4 @@
-# CreatingTaskFromScratch
+# Creating Task From Scratch
 
 A small educational .NET project that explores how an awaitable abstraction works by implementing a minimal `CustomTask` from scratch.
 
